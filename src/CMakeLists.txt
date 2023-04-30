@@ -1,11 +1,13 @@
 # List of headers
 set(MY_MD_HEADERS
   hello.h
+  lj.h
 )
 
 # List of implementation files
 set(MY_MD_CPP
   hello.cpp
+  lj.cpp
 )
 
 # Create a static library
